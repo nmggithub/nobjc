@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "moduleResolution": "nodenext",
+        "baseUrl": ".",
+        "paths": {
+            "#nobjc_native": [
+                "build/Release/nobjc_native.node"
+            ]
+        }
+    },
+    "include": [
+        "types/native/nobjc_native.d.ts"
+    ]
+}

@@ -1,7 +1,0 @@
-CompileFlags:
-  Compiler: /usr/bin/clang++
-  Add:
-    - -std=c++20
-    - -xobjective-c++
-    - -I/Users/noah/.nvm/versions/node/v20.19.2/include/node
-    - -I/Users/noah/Documents/Projects/nobjc/node_modules/node-addon-api
